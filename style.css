@@ -263,7 +263,7 @@ header{
 .header .search-form label:hover{
     color: var(--primary-color);
 }
-.header .cart-items-container{
+/* .header .cart-items-container{
     position: absolute;
     top:100%; right: -100%;
     height: calc(100vh - 9.5rem);
@@ -315,7 +315,7 @@ header{
     width: 100%;
     text-align: center;
 }
-
+ */
 .logo img{
     width: 100px;
 }
